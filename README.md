@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raj8679.github.io/](https://raj8679.github.io/)
 
-- 📫 How to reach me **devraj8679@gmail.com**
+- 📫 How to reach me `devraj8679@gmail.com`
 
 <h3 align="left">Connect with me:devraj8679@gmail.com</h3>
 <p align="left">
