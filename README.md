@@ -5,8 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj8679" alt="raj8679" /></a> </p>
 
+- Currently learning Full-Stack Web Developement at Masai
+- Ask me about HTML, CSS, JavaScript, React, Node.js, and Express.js
+- Checkout my <a href='https://drive.google.com/file/d/1QUxGX347Q70kcN_7NB33Y0qU1e8gY97G/view?usp=share_link'>Resume</a>
 - 👨‍💻 All of my projects are available at [https://raj8679.github.io/](https://raj8679.github.io/)
-
 - 📫 How to reach me `devraj8679@gmail.com`
 
 <h3 align="left">Connect with me:devraj8679@gmail.com</h3>
